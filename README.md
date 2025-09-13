@@ -1,0 +1,1 @@
+chatterbox/server is the backend logic of the Chatterbox platform, responsible for API handling and server-side operations.
