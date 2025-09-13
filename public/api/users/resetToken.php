@@ -1,5 +1,7 @@
 <?php
 
+require __DIR__ . '/../../../bootstrap.php';
+
 use Entity\Exception\EntityNotFoundException;
 use Entity\Exception\UnauthorizedException;
 use Entity\User;

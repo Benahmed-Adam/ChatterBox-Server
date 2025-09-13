@@ -1,10 +1,10 @@
 <?php
 
+require __DIR__ . '/../../../bootstrap.php';
 use Entity\Exception\EntityNotFoundException;
 use Entity\Exception\UnauthorizedException;
 use Entity\User;
 use Entity\GroupChat;
-use Entity\Message;
 
 header("Content-Type: application/json");
 

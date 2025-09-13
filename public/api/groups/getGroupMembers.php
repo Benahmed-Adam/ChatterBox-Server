@@ -1,8 +1,8 @@
 <?php
 
+require __DIR__ . '/../../../bootstrap.php';
 use Entity\Exception\EntityNotFoundException;
 use Entity\GroupChat;
-use Entity\User;
 
 header("Content-Type: application/json");
 

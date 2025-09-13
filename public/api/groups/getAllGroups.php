@@ -1,5 +1,6 @@
 <?php
 
+require __DIR__ . '/../../../bootstrap.php';
 use Entity\Collection\GroupCollection;
 
 header("Content-Type: application/json");

@@ -1,5 +1,6 @@
 <?php
 
+require __DIR__ . '/../../../bootstrap.php';
 use Entity\User;
 use Entity\GroupChat;
 use Entity\Exception\EntityNotFoundException;
