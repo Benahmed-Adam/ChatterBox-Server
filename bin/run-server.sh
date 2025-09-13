@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php -d display_errors -S 0.0.0.0:8000 -t public/
